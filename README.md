@@ -1,5 +1,5 @@
 # googlescrapercsv
-this code able to scrape your google results and load as csv
+this script able to scrape your google results and load as csv file
 ![dsfsdfgsdg](https://user-images.githubusercontent.com/39379330/110994512-ee7f2400-8389-11eb-86ab-33e1e58ad20a.jpg)
 
 main source:
